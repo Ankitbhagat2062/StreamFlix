@@ -2,7 +2,7 @@
 
 A modern, responsive streaming platform built with HTML, CSS, JavaScript, and Bootstrap. StreamFlix offers a Netflix-like experience with beautiful UI, smooth animations, and comprehensive features for streaming movies and TV shows.
 
-![StreamFlix Banner](https://raw.githubusercontent.com/Ankitbhagat2062/StreamFlix/main/favicon.jng)
+![StreamFlix Banner](https://raw.githubusercontent.com/Ankitbhagat2062/StreamFlix/main/favicon.jpg)
 
 ## ✨ Live Demo
 
